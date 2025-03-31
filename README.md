@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali
 - 👀 I’m interested in coding, reading, fitness.
-- 🌱 I’m currently learning Java and C++.
 
 <!---
 Zero-Ali/Zero-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
